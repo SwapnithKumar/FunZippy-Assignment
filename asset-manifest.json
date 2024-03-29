@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FunZippy-Assignment/static/css/main.c21823f2.css",
+    "main.js": "/FunZippy-Assignment/static/js/main.d189d3da.js",
+    "static/js/453.64512fd7.chunk.js": "/FunZippy-Assignment/static/js/453.64512fd7.chunk.js",
+    "index.html": "/FunZippy-Assignment/index.html",
+    "main.c21823f2.css.map": "/FunZippy-Assignment/static/css/main.c21823f2.css.map",
+    "main.d189d3da.js.map": "/FunZippy-Assignment/static/js/main.d189d3da.js.map",
+    "453.64512fd7.chunk.js.map": "/FunZippy-Assignment/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c21823f2.css",
+    "static/js/main.d189d3da.js"
+  ]
+}
