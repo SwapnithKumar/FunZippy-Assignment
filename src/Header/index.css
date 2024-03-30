@@ -1,0 +1,30 @@
+.wedding {
+  font-family: "HOUGBOND";
+  font-size: 42px;
+  color: rgb(102, 78, 1);
+}
+
+.header-text {
+  font-size: 22px;
+  color: rgb(102, 78, 1);
+  font-weight: 700;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90vw;
+  margin-left: 50px;
+}
+
+.header-elements {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60vw;
+}
